@@ -2,7 +2,7 @@
 
 A full-stack To-Do application built using **React**, **Node.js**, **Express**, and **MongoDB**. This app allows users to create, read, update, and delete tasks.
 
-![Description](assets/image.png)
+![Description](assets/image.jpg)
 
 ## 🚀 Features
 - **Add** a new task
